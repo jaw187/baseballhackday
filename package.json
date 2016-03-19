@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jaw187/baseballhackday#readme",
   "dependencies": {
     "hapi": "^13.2.1",
+    "inert": "^3.2.0",
     "mongodb": "^2.1.7"
   }
 }
