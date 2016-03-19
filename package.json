@@ -19,6 +19,8 @@
   "dependencies": {
     "hapi": "^13.2.1",
     "inert": "^3.2.0",
-    "mongodb": "^2.1.7"
+    "lodash": "^4.6.1",
+    "mongodb": "^2.1.7",
+    "wreck": "^7.0.2"
   }
 }
